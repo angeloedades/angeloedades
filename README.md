@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Angelo 👋
+
+Senior DevOps Engineer @KPMG-UK and full-time aviation geek 🛫🛬
+
+### Hallo Leute, Ich bin Angelo 👋
+
+Ich bin Senior DevOps Ingenieur für @KPMG-UK und besessen vom Fliegen.
+
+Ich mag Flugzeuge, Texturen, Essen und Katzen.
+
+Bis bald!
 
 <!--
 **angeloedades/angeloedades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
