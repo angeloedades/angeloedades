@@ -1,24 +1,7 @@
-### Hi, I'm Angelo 👋
+### Hello, I'm Angelo 👋
 
-Lead DevOps Engineer for @KPMG-UK and full-time aviation geek 🛫🛬.
+I am a DevSecOps Capability Lead and a full-time available geek 🛫🛬.
 
-### Hallo, Ich bin Angelo 👋
+🔭 I’m currently working on improving cinema screen notes so people can choose the best seats and the best screens.
+📫 How to reach me: email me or on instagram
 
-Ich bin Lead DevOps Ingenieur für @KPMG-UK.
-
-Ich liebe Flugzeuge 🛫🛬 und Katzen 🐈.
-
-<!--
-**angeloedades/angeloedades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
