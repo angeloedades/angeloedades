@@ -6,7 +6,8 @@ I am a DevSecOps Capability Lead / Senior Manager and a full-time aviation geek 
 * 📫 How to reach me: email me or on instagram
 
 
-### Hello, Ako si Angelo 👋
+### Hello, ako si Angelo 👋
 
-Isa akong DevSecOps Capability Lead / Senior Manager at full-time aviation geek din 🛫🛬
+Isa akong DevSecOps Capability Lead / Senior Manager at isang full-time aviation geek din 🛫🛬
 
+* 📫 Maaari mo akong kontakin sa email o instagram
