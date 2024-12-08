@@ -2,8 +2,8 @@
 
 I am a DevSecOps Capability Lead / Senior Manager and a full-time aviation geek 🛫🛬
 
-*🔭 I’m currently working on improving cinema screen notes so people can choose the best seats and the best screens.
-*📫 How to reach me: email me or on instagram
+* 🔭 I’m currently working on improving cinema screen notes so people can choose the best seats and the best screens.
+* 📫 How to reach me: email me or on instagram
 
 
 ### Hello, Ako si Angelo 👋
